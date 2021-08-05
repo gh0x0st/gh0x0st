@@ -10,7 +10,7 @@ I wish you the best of luck on your journey to become the strongest version of y
 
 ## Want to collaborate?
 
-The Offensive Community Discord was created to allow members to learn, share, and to connect with others. Come join the community to learn and grow together at https://discord.com/invite/offsec.
+The Offensive Security Discord was created to help students and professionals to share, learn and grow together. Come be part of the community at https://discord.com/invite/offsec.
 
 ## GitHub Stats
 
