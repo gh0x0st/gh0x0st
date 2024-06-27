@@ -2,11 +2,13 @@
 
 # whoami
 
-The name is Tristram and I develop strategies and implement controls to defend healthcare from malicious entities as well as validate security controls through penetration testing. However, like many of you, I have a common goal, which is to become the strongest version of myself as both a leader and professional. 
+My name is Tristram, and I specialize in developing security strategies to protect the healthcare industry from malicious threats. Although I primarily work as a blue teamer, I leverage penetration testing and create my own red team exercises to identify opportunities to enhance existing security controls.
 
-I strongly believe that knowledge sharing is the most important quality of any professional and it should be treated as a skillset as much as a mindset. It is my goal is to impart my knowledge from my own lessons learned, to help pave the way into someone else's journey into a red or blue team professional.
+Like many of you, I share the goal of becoming the strongest version of myself, both as a leader and a professional in my field. I firmly believe that knowledge sharing is an essential quality for any professional and should be valued as both a skillset and a mindset. This approach is vital for our industry's growth and for guiding others on their journey into red or blue team roles.
 
-I wish you the best of luck on your journey to become the strongest version of yourself.
+In addition to my technical expertise, I am committed to fostering a culture of continuous learning and collaboration. By sharing my insights and experiences, I aim to inspire and support others in achieving their full potential.
+
+I wish you the best of luck on your journey to becoming the strongest version of yourself. Together, we can make a significant impact in safeguarding our digital world.
 
 ## Want to collaborate?
 
